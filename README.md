@@ -1,3 +1,3 @@
-cd /project folder/
-npm install
-npm start
+cd /project folder/  ---->>>> npm install ---->>>> npm start
+
+
